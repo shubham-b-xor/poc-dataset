@@ -2,7 +2,7 @@
   {
     "_id": "poc1",
     "name": "AI Chatbot",
-    "logoUrl": "https://magazine.alumni.ubc.ca/sites/default/files/styles/max_1300x1300/public/2023-09/AIart-1920x1080.jpg?itok=i4Yw51WT",
+    "logoUrl": "https://raw.githubusercontent.com/shubham-b-xor/poc-dataset/2bf127776203587298b6448e8fc25dbd9b12df87/images/blockchain.jpg",
     "shortDescription": "lorem ipsum",
     "description": "Customer service AI chatbot demo.",
     "status": "Active",
